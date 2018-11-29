@@ -1,2 +1,7 @@
 welcome to git
+<<<<<<< HEAD
 2nd line
+==
+
+editwed nows
+
